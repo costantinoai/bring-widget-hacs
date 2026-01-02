@@ -1,0 +1,11 @@
+{
+  "domain": "bring_shopping",
+  "name": "Bring! Shopping Card",
+  "codeowners": ["@costantinoai"],
+  "config_flow": true,
+  "documentation": "https://github.com/costantinoai/bring-widget-hacs",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/costantinoai/bring-widget-hacs/issues",
+  "requirements": ["bring-api==1.1.1"],
+  "version": "1.0.0"
+}
