@@ -23,6 +23,10 @@ A beautiful, modern shopping list card for [Bring!](https://www.getbring.com/) -
 - **Auto-Refresh** - Syncs every 60 seconds
 - **Native Todo Integration** - Creates HA todo entities for automations
 
+## Preview
+
+![Bring! Shopping Card preview](assets/preview.png)
+
 ## Installation
 
 ### HACS (Recommended)
