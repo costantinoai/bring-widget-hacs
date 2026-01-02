@@ -1,8 +1,8 @@
 # Bring! Shopping Card for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/)
-[![GitHub Release](https://img.shields.io/github/release/costantinoai/bring-widget-hacs.svg)](https://github.com/costantinoai/bring-widget-hacs/releases)
-[![License](https://img.shields.io/github/license/costantinoai/bring-widget-hacs.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/costantinoai/bring-shopping-card.svg)](https://github.com/costantinoai/bring-shopping-card/releases)
+[![License](https://img.shields.io/github/license/costantinoai/bring-shopping-card.svg)](LICENSE)
 
 A beautiful, modern shopping list card for [Bring!](https://www.getbring.com/) - fully integrated with Home Assistant.
 
@@ -45,12 +45,12 @@ A beautiful, modern shopping list card for [Bring!](https://www.getbring.com/) -
 If you don't see it in **Explore & Download**, add it as a custom repository:
 
 1. HACS → **Integrations** → **⋮** → **Custom repositories**
-2. Add `https://github.com/costantinoai/bring-widget-hacs` with category **Integration**
+2. Add `https://github.com/costantinoai/bring-shopping-card` with category **Integration**
 3. Download and restart Home Assistant
 
 ### Manual Installation
 
-1. Download the [latest release](https://github.com/costantinoai/bring-widget-hacs/releases)
+1. Download the [latest release](https://github.com/costantinoai/bring-shopping-card/releases)
 2. Copy `custom_components/bring_shopping/` to `/config/custom_components/`
 3. Copy `bring-shopping-card.js` to `/config/www/`
 4. Add the resource in **Settings** → **Dashboards** → **Resources**:
