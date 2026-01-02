@@ -7,5 +7,5 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/costantinoai/bring-widget-hacs/issues",
   "requirements": ["bring-api==1.1.1"],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
