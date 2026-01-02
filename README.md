@@ -101,11 +101,11 @@ This integration creates native Home Assistant todo entities for each of your Br
 - Automations (e.g., "When I arrive at the store, show my shopping list")
 - Voice assistants (Google Home, Alexa via HA)
 
-## Comparison with the official Bring! integration
+## Comparison with the other Bring! integration
 
-Home Assistant also has an official Bring! integration: https://www.home-assistant.io/integrations/bring
+Home Assistant also has another Bring! integration documented here: https://www.home-assistant.io/integrations/bring
 
-That integration focuses on syncing Bring! lists into Home Assistant as todo lists (great for automations and basic UI), but it does not provide a full Bring!-like shopping list experience inside Lovelace.
+That project focuses on syncing Bring! lists into Home Assistant as todo lists (great for automations and basic UI), but it does not provide a full Bring!-like shopping list experience inside Lovelace.
 
 This project is different:
 
