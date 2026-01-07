@@ -8,21 +8,6 @@ A beautiful, modern shopping list card for [Bring!](https://www.getbring.com/) -
 
 > **Disclaimer**: This project is not affiliated with, endorsed by, or connected to Bring! Labs AG or the official Bring! app.
 
-## Features
-
-- **Beautiful Design** - Modern card that adapts to your Home Assistant theme
-- **Visual Config Editor** - Configure all options through the UI
-- **Real Product Images** - Fetches images from Bring CDN with emoji fallback
-- **Multiple Lists** - Switch between your Bring! lists with a dropdown selector
-- **Configurable Card Size** - Choose between small, medium, or large item cards
-- **Drag & Drop Reordering** - Organize your shopping list your way
-- **Dynamic Search** - Filter items as you type with live suggestions
-- **Multiple Sort Options** - Manual, A-Z, By Category, Recently Added
-- **Item Notes** - Add specifications like "2 lbs" or "organic"
-- **Quick Add** - One-tap add from recently purchased items
-- **Auto-Refresh** - Syncs every 60 seconds
-- **Native Todo Integration** - Creates HA todo entities for automations
-
 ## Preview
 
 ![Bring! Shopping Card preview](assets/preview.png)
